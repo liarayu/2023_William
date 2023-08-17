@@ -60,7 +60,7 @@ img{
     margin-left: 4px;
 }
 .intro{
-    background: url(/img/background-img.png) no-repeat fixed;
+    background: url(img/background-img.png) no-repeat fixed;
     height: 920px;
     align-items: center;
 }
